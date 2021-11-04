@@ -1,4 +1,5 @@
 /*
+
  Estilos para el menu
  */
  *{
@@ -22,7 +23,6 @@ li{
 }
 a{
     text-decoration:none;
-    color:aliceblue;
     padding: 16px;
 }
 
@@ -55,3 +55,20 @@ a{
     justify-content:flex-end;
     border:5px
 }
+
+ /*
+
+ .btn{
+    border-radius: 
+ } 
+ 
+ * {
+    font-family: 'Montserrat', sans-serif;
+ }
+ 
+ .btn-main{
+     background-color:#18BC9C; 
+
+
+ }
+*/
