@@ -1,6 +1,62 @@
 /*
- * Estilos de tu proyecto
+
+ Estilos para el menu
  */
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+ .header{
+     background:#2E3C50;
+     
+ }
+nav {
+    width: 100%;
+    margin-top:0;
+}
+li{
+    list-style: none;
+    padding: 16px 0;
+    border-radius: 10px;
+    margin: 8px;
+}
+a{
+    text-decoration:none;
+    padding: 16px;
+}
+
+.title{
+        padding-top: 0.3125rem
+;
+    padding-bottom: 0.3125rem
+;
+     margin-right: 1rem
+; 
+    font-size: 1.25rem;
+     text-decoration: none;
+     white-space: nowrap;
+}
+
+
+.classNav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.classMenu{
+    display:flex;
+    flex-direction: row;
+}
+#menu{
+    background: #1abc9c;
+    justify-content:flex-end;
+    border:5px
+}
+
+ /*
 
  .btn{
     border-radius: 
@@ -15,3 +71,4 @@
 
 
  }
+*/
